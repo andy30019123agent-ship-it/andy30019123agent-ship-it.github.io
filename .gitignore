@@ -1,3 +1,8 @@
 node_modules
 .DS_Store
 .impeccable/
+
+# 環境變數（夜間盤點補上）
+.env
+.env.local
+.env*.local
